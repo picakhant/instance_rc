@@ -1,3 +1,10 @@
+---
+title: "My first post"
+date: 2026-08-13
+description: "A short summary shown on the blog card."
+tags: [nextjs, javascript]
+---
+
 # How I Built a QR Roll Call System to Fix a Problem I Hated Every Class
 
 *By Aster Julian Ray · Senior Mentor, UCS-Pyay · @picakhant*
@@ -194,3 +201,12 @@ next roll call in seconds.
 - **GitHub:** [@picakhant](https://github.com/picakhant)
 
 *No more shouting roll call. Ever.*
+
+---
+
+## မြန်မာဘာသာဖြင့် (Myanmar Version)
+
+*(ဤနေရာတွင် သင့်မြန်မာဘာသာစာသားကို ရေးသားနိုင်ပါသည် — This section is for the Myanmar translation of the blog.)*
+
+- **Author:** Aster Julian Ray — Senior Mentor, UCS-Pyay
+- **GitHub:** [@picakhant](https://github.com/picakhant)
